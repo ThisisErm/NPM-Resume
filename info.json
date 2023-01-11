@@ -1,0 +1,27 @@
+{
+    "name": "Erm Mercedes",
+    "website": "https://thisiserm.com/",
+    "linkedin": "https://www.linkedin.com/in/ermmercedes//",
+    "github": "https://github.com/ThisisErm",
+    "email": "hammad.malik@generalassemb.ly",
+    "resume": "https://www.linkedin.com/in/ermmercedes/",
+    "proficientTechnologies": [
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Git",
+        "Github",
+        "Bash",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Linux",
+        "Docker"
+    ],
+    "otherSkills": [
+        "Brazillian Jiujitsu",
+        "Boxing",
+        "Walking my dog"
+    ]
+}
