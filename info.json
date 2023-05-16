@@ -1,27 +1,36 @@
 {
     "name": "Erm Mercedes",
     "website": "https://thisiserm.com/",
-    "linkedin": "https://www.linkedin.com/in/ermmercedes//",
+    "linkedin": "https://www.linkedin.com/in/ermmercedes/",
     "github": "https://github.com/ThisisErm",
-    "email": "hammad.malik@generalassemb.ly",
-    "resume": "https://www.linkedin.com/in/ermmercedes/",
+    "email": "ermithon@gmail.com",
+    "resume(Percent-encoded URI)": "https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F17kdfDaTQXMvwfQHAmk5UPhwvAZeYw40O%2Fview%3Fusp%3Dsharing",
     "proficientTechnologies": [
         "Javascript",
+        "Node",
+        "React",
+        "Express",
+        "Npm",
         "HTML",
         "CSS",
         "Git",
         "Github",
         "Bash",
         "PostgreSQL",
+        "MongoDB",
+        "MariaDB",
         "Python",
         "Django",
         "Wordpress",
+        "Squarespace",
+        "Wix",
+        "Canva",
         "Linux",
-        "Docker"
+        "Docker"    
     ],
     "otherSkills": [
-        "Brazillian Jiujitsu",
-        "Boxing",
-        "Walking my dog"
+        "Fluent in Spanish",
+        "Fast learner",
+        "Open Source/Self-Hosting Enthusiast"
     ]
 }
